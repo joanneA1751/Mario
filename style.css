@@ -1,0 +1,28 @@
+body{
+    background-image: cover;
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+#instruction{
+    float: right;
+}
+.Mario{
+    float: left;
+}
+#start,#status{
+    font-size: 22px;
+}
+.big_image{
+    width: 100%;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+.heading h3{
+    display: inline;
+}
